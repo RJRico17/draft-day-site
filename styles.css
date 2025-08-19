@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+}
+.bigButton {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 3em;
+    padding: 1.5em;
+    background-color: navy;
+    border: solid 3px white;
+}
